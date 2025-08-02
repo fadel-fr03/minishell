@@ -472,9 +472,9 @@ int execute_simple_command(t_ast_node *node, t_env *env, t_data *data)
 
 This project is part of the 42 School curriculum. Educational use only.
 
-**Credits (Github usernames):**
+**Credits (GitHub usernames):**
 
-* fadel-fr03
-* Nixential
+* [fadel-fr03](https://github.com/fadel-fr03)
+* [Nixential](https://github.com/Nixential)
 
 ---
